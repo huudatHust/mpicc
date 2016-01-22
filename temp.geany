@@ -22,6 +22,10 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
-FILE_NAME_0=202;C;0;EUTF-8;1;1;0;%2Fhome%2Fdatth%2FDocuments%2Fmpi%2Fmain.c;0;4
-FILE_NAME_1=1274;Make;0;EUTF-8;1;1;0;%2Fhome%2Fdatth%2FDocuments%2Fmpi%2Fmakefile;0;4
+current_page=5
+FILE_NAME_0=573;C;0;EUTF-8;1;1;0;%2Fhome%2Fdatth%2FDocuments%2Fmpi%2Fmain.c;0;4
+FILE_NAME_1=999;Make;0;EUTF-8;1;1;0;%2Fhome%2Fdatth%2FDocuments%2Fmpi%2Fmakefile;0;4
+FILE_NAME_2=382;C;0;EUTF-8;1;1;0;%2Fhome%2Fdatth%2FDocuments%2Fmpi%2F1_hello.c;0;4
+FILE_NAME_3=382;C;0;EUTF-8;1;1;0;%2Fhome%2Fdatth%2FDocuments%2Fmpi%2F2mpi_helloBsend.c;0;4
+FILE_NAME_4=909;C;0;EUTF-8;1;1;0;%2Fhome%2Fdatth%2FDocuments%2Fmpi%2F3_mpi_helloNBsend.c;0;4
+FILE_NAME_5=3993;C;0;EUTF-8;1;1;0;%2Fhome%2Fdatth%2FDocuments%2Fmpi%2F4_mpi_array.c;0;4
