@@ -18,7 +18,7 @@ CFLAGS =
 CC = mpicc
 
 #Set the filename extensiton of your C files (e.g. .c or .cpp )
-EXTENSION = .cpp
+EXTENSION = .c
 
 #define a rule that applies to all files ending in the .o suffix, which says that the .o file depends upon the .c version of the file and all the .h files included in the DEPS macro.  Compile each object file
 %.o: %$(EXTENSION) $(DEPS)

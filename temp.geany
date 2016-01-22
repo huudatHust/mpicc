@@ -15,10 +15,13 @@ indent_mode=2
 [project]
 name=temp
 base_path=/home/datth/Documents/mpi
+description=
 
 [long line marker]
 long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=-1
+current_page=1
+FILE_NAME_0=202;C;0;EUTF-8;1;1;0;%2Fhome%2Fdatth%2FDocuments%2Fmpi%2Fmain.c;0;4
+FILE_NAME_1=1274;Make;0;EUTF-8;1;1;0;%2Fhome%2Fdatth%2FDocuments%2Fmpi%2Fmakefile;0;4
